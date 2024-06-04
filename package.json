@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "three": "^0.164.1"
+  },
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  }
+}
